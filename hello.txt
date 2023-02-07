@@ -1,0 +1,10 @@
+.  Now move to the local system and push the index.html commit to the remote.
+
+May be you will get some conflict. resolve the conflict so that only local changes of removing the home section should go to the remote. 
+7. Now commit style.css changes to the remote.
+
+8. Create a new branch development from the main branch.
+
+9. create one hello.txt file and add some dummy text in that. 
+
+10. remove following line of code from this file css→style.css
